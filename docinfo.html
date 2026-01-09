@@ -4,11 +4,13 @@
     text-align: right;
   }
 
+  /* Justify all paragraphs */
   #content p {
     text-align: justify;
     hyphens: auto;
   }
 
+  /* Style poem blocks */
   .literalblock.poem .content pre {
     background-color: #ffe6cc;
     border-right: 4px solid #e67300;
@@ -16,6 +18,11 @@
 
   .literalblock.poem .title {
     text-align: right;
+  }
+
+  /* Adjust table of contents for RTL */
+  #toc ul ul {
+    padding-inline-start: 1.5em;
   }
 
   /* Override Open Sans in headings */
