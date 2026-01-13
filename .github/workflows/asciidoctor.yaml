@@ -25,5 +25,5 @@ jobs:
       - name: Upload HTML Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: گنچ_حضور
-          path: گنچ_حضور.html
+          name: گنج_حضور
+          path: گنج_حضور.html
