@@ -1,0 +1,27 @@
+name: asciidoctor
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    types:
+      - closed
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate HTML
+        run: ./asciidoctor.sh
+
+      - name: Upload HTML Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: گنچ_حضور
+          path: گنچ_حضور.html
