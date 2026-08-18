@@ -25,5 +25,5 @@ jobs:
       - name: Upload HTML Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: گنج_حضور
+          name: ganje_hozour
           path: "*.html"

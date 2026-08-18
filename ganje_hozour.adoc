@@ -1,0 +1,9 @@
+= گنج حضور
+:nofooter:
+
+[.custom-toc]
+--
+* xref:audio_excerpts.html[گزیده برنامه‌ها]
+* xref:book_excerpts.html[گزیده کتاب‌ها]
+* xref:poems.html[اشعار]
+--
