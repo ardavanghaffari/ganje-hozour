@@ -117,4 +117,112 @@
   kbd {
     font-family: "Vazirmatn"
   }
+
+  .page-navigation {
+    position: fixed;
+    inset-inline-end: 1.25rem;
+    bottom: 1.25rem;
+    z-index: 1000;
+    display: flex;
+    gap: .5rem;
+    opacity: 0;
+    transform: translateY(1rem);
+    pointer-events: none;
+    transition: opacity .2s ease, transform .2s ease;
+  }
+
+  .page-navigation.is-visible {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
+  }
+
+  .page-navigation button,
+  .page-navigation a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.75rem;
+    height: 2.75rem;
+    padding: 0;
+    border: 0;
+    border-radius: 999px;
+    background: #e67300;
+    box-shadow: 0 2px 8px rgb(0 0 0 / 25%);
+    color: #fff;
+    cursor: pointer;
+    font: 600 .9rem "Vazirmatn", sans-serif;
+    text-decoration: none;
+  }
+
+  .page-navigation svg {
+    width: 1.25rem;
+    height: 1.25rem;
+    fill: none;
+    stroke: currentColor;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 2;
+  }
+
+  .page-navigation button:hover,
+  .page-navigation a:hover,
+  .page-navigation button:focus-visible,
+  .page-navigation a:focus-visible {
+    background: #b85c00;
+    color: #fff;
+  }
+
+  .page-navigation button:focus-visible,
+  .page-navigation a:focus-visible {
+    outline: 3px solid #1a73e8;
+    outline-offset: 3px;
+  }
+
+  @media (max-width: 480px) {
+    .page-navigation {
+      inset-inline-end: .75rem;
+      bottom: .75rem;
+    }
+  }
 </style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var filename = decodeURIComponent(window.location.pathname).split('/').pop();
+    if (filename === 'ganje_hozour.html') return;
+
+    var navigation = document.createElement('nav');
+    navigation.className = 'page-navigation';
+
+    var topButton = document.createElement('button');
+    topButton.type = 'button';
+    topButton.innerHTML = `
+      <svg viewBox="0 0 24 24" aria-hidden="true">
+        <path d="m18 15-6-6-6 6"/>
+      </svg>
+    `;
+    topButton.addEventListener('click', function () {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    var homeLink = document.createElement('a');
+    homeLink.href = 'ganje_hozour.html';
+    homeLink.innerHTML = `
+      <svg viewBox="0 0 24 24" aria-hidden="true">
+        <path d="m3 10 9-7 9 7v10a1 1 0 0 1-1-1H4a1 1 0 0 1-1-1z"/>
+        <path d="M9 21v-6h6v6"/>
+      </svg>
+    `;
+
+    navigation.append(topButton, homeLink);
+    document.body.append(navigation);
+
+    function updateVisibility() {
+      navigation.classList.toggle('is-visible', window.scrollY > 300);
+    }
+
+    window.addEventListener('scroll', updateVisibility, { passive: true });
+    updateVisibility();
+  });
+</script>
