@@ -26,4 +26,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: گنج_حضور
-          path: گنج_حضور.html
+          path: *.html
