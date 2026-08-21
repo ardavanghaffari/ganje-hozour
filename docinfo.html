@@ -190,7 +190,7 @@
 <script>
   document.addEventListener('DOMContentLoaded', function () {
     var filename = decodeURIComponent(window.location.pathname).split('/').pop();
-    if (filename === 'ganje_hozour.html') return;
+    if (filename === 'index.html') return;
 
     var navigation = document.createElement('nav');
     navigation.className = 'page-navigation';
@@ -207,7 +207,7 @@
     });
 
     var homeLink = document.createElement('a');
-    homeLink.href = 'ganje_hozour.html';
+    homeLink.href = 'index.html';
     homeLink.innerHTML = `
       <svg viewBox="0 0 24 24">
         <path d="M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8"/>
