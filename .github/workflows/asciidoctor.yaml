@@ -26,4 +26,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: ganje_hozour
-          path: "*.html"
+          path: "build/*.html"
