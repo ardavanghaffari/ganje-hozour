@@ -125,16 +125,14 @@
     z-index: 1000;
     display: flex;
     gap: .5rem;
-    opacity: 0;
-    transform: translateY(1rem);
-    pointer-events: none;
-    transition: opacity .2s ease, transform .2s ease;
   }
 
-  .page-navigation.is-visible {
-    opacity: 1;
-    transform: translateY(0);
-    pointer-events: auto;
+  .page-navigation .back-to-top {
+    display: none;
+  }
+
+  .page-navigation .back-to-top.is-visible {
+    display: inline-flex;
   }
 
   .page-navigation button,
@@ -197,6 +195,7 @@
 
     var topButton = document.createElement('button');
     topButton.type = 'button';
+    topButton.className = 'back-to-top';
     topButton.innerHTML = `
       <svg viewBox="0 0 24 24">
         <path d="m18 15-6-6-6 6"/>
@@ -219,7 +218,7 @@
     document.body.append(navigation);
 
     function updateVisibility() {
-      navigation.classList.toggle('is-visible', window.scrollY > 300);
+      topButton.classList.toggle('is-visible', window.scrollY > 300);
     }
 
     window.addEventListener('scroll', updateVisibility, { passive: true });
