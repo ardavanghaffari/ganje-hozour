@@ -5,6 +5,8 @@
 
 == آتش آب توست
 
+audio::media/audio/atash_ab_toost.mp3[controls]
+
 .برنامه ۸۰۳، مولوی، مثنوی، دفتر پنجم، بیت شماره ۴۳۳
 [.poem]
 ....
