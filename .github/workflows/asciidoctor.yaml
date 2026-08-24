@@ -4,9 +4,6 @@ on:
   push:
     branches:
       - main
-  pull_request:
-    types:
-      - closed
   workflow_dispatch:
 
 jobs:
@@ -17,13 +14,39 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Generate HTML
         run: ./build.sh
 
-      - name: Upload HTML Artifact
-        uses: actions/upload-artifact@v4
+      - name: Upload HTML Artifacts
+        uses: actions/upload-artifact@v7
         with:
-          name: ganje_hozour
-          path: "build/*.html"
+          name: assets
+          path: build
+          retention-days: 1
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+      deployments: write
+    name: Deploy to Cloudflare
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Download HTML Artifacts
+        uses: actions/download-artifact@v7
+        with:
+          name: assets
+          path: build
+
+      - name: Deploy
+        uses: cloudflare/wrangler-action@v4
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
