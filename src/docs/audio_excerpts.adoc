@@ -37,6 +37,8 @@ audio::media/audio/atash_ab_toost.mp3[controls]
 
 == آداب شنوندگان و مریدان، آنگاه که سخنان حکمت‌آمیز از زبان شیخ جاری شود
 
+audio::media/audio/adaab_shenavandegan_va_moridan_angah_ke_sokhanan_hekmat_amiz_az_zaban_sheykh_jari_shavad.mp3[controls]
+
 .برنامه ۱۰۰۰، مولوی، مثنوی، دفتر سوم، بیت ۳۶۰۲
 [.poem]
 ....
@@ -104,6 +106,8 @@ audio::media/audio/atash_ab_toost.mp3[controls]
 
 == آدمى را در رنج و محنت بيافريده ايم
 
+audio::media/audio/adami_ra_dar_ranj_o_mehnat_biafaride_im.mp3[controls]
+
 .قرآن کریم، سوره بلد (۹۰)، آیه ۱۲-۱
 [.poem]
 ....
@@ -145,6 +149,8 @@ audio::media/audio/atash_ab_toost.mp3[controls]
 ....
 
 == آینده لازم نیست امتداد گذشته باشه
+
+audio::media/audio/ayande_lazem_nist_emtedad_gozashte_bashe.mp3[controls]
 
 .برنامه ۹۹۷، مولوی، دیوان شمس، غزل شمارهٔ ۱۶۱۱
 [.poem]
@@ -198,6 +204,8 @@ audio::media/audio/atash_ab_toost.mp3[controls]
 
 == از میان نردبان نگریزم
 
+audio::media/audio/az_mian_nardeban_nagorizam.mp3[controls]
+
 .برنامه ۷۹۷، مولوی، دیوان شمس، غزل شمارهٔ ۱۶۵۸
 [.poem]
 ....
@@ -237,6 +245,8 @@ audio::media/audio/atash_ab_toost.mp3[controls]
 
 == استثنا کنید
 
+audio::media/audio/estesna_konid.mp3[controls]
+
 .برنامه ۹۸۲، مولوی، مثنوی، دفتر سوم، بیت ۱۶۳۷
 [.poem]
 ....
@@ -272,6 +282,8 @@ audio::media/audio/atash_ab_toost.mp3[controls]
 
 == افسانه من ذهنی
 
+audio::media/audio/afsane_man_zehni.mp3[controls]
+
 موانع مَنِ ذهنی من: وضعیت های ساخته شده به وسیله من ذهنی، که به نظر
 من نمی گذارند، من در این لحظه زندگی کنم و اگر آن موانع رفع شوند، زندگی
 من شروع می شود.
@@ -295,6 +307,8 @@ audio::media/audio/atash_ab_toost.mp3[controls]
 ....
 
 == اگر قبول دارید عمل کنید روی خودتون کار کنید
+
+audio::media/audio/agar_ghabool_darid_amal_konid_roye_khodetoon_kar_konid.mp3[controls]
 
 .برنامه ۹۸۲، مولوی، مثنوی، دفتر پنجم، بیت ۱۳۶۵
 [.poem]
