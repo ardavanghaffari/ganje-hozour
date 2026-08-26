@@ -645,7 +645,9 @@ audio::media/audio/dard_va_chalesh_sabab_fazagoshaei_hastan.mp3[controls]
 امرِ کُن: فرمانِ «بشُو و می‌شودِ» خداوند.
 ....
 
-== دید خدا / آینه کلی
+== آینه کلی
+
+audio::media/audio/ayene_kolli.mp3[controls]
 
 .برنامه ۷۹۷، مولوی، دیوان شمس، غزل شمارهٔ ۱۷۴۵
 [.poem]
@@ -703,7 +705,9 @@ audio::media/audio/dard_va_chalesh_sabab_fazagoshaei_hastan.mp3[controls]
 که منم تو، تو منی در اتحاد
 ....
 
-== دید خدا / در خودتون و دیگران زندگی رو ببینید
+== در خودتون و دیگران زندگی رو ببینید
+
+audio::media/audio/dar_khodetoon_va_digaran_zendegi_ro_bebinid.mp3[controls]
 
 .برنامه ۱۰۰۰، مولوی، دیوان شمس، غزل شمارهٔ ۵۱
 [.poem]
@@ -728,7 +732,9 @@ audio::media/audio/dard_va_chalesh_sabab_fazagoshaei_hastan.mp3[controls]
 شَسْت: قُلّاب ماهیگیری، «دو شَسْت» کنایه از موی جلوی سر است که به دو بخش تقسیم شود و بافته گردد.
 ....
 
-== دید خدا / یابی اندر دید او کل غرض
+== یابی اندر دید او کل غرض
+
+audio::media/audio/yabi_andar_dide_oo_kolle_gharaz.mp3[controls]
 
 .برنامه ۷۹۷، مولوی، مثنوی، دفتر اول، بیت ۹۲۱
 [.poem]
@@ -740,7 +746,9 @@ audio::media/audio/dard_va_chalesh_sabab_fazagoshaei_hastan.mp3[controls]
 یابی اندر دید او کل غَرَض
 ....
 
-== دید خدا / ینظر بنورالله
+== ینظر بنورالله
+
+audio::media/audio/yanzoro_benoorollah.mp3[controls]
 
 .برنامه ۱۰۰۰، مولوی، مثنوی، دفتر دوم، بیت ۱۵۶۷
 [.poem]
