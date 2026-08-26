@@ -331,6 +331,8 @@ audio::media/audio/agar_ghabool_darid_amal_konid_roye_khodetoon_kar_konid.mp3[co
 
 == اگر کسی برای خدا باشد خدا هم برای اوست
 
+audio::media/audio/agar_kasi_baraye_khoda_bashad_khoda_ham_baraye_oust.mp3[controls]
+
 .برنامه ۱۰۰۰، مولوی، مثنوی، دفتر اوّل، بیت ۱۹۳۷
 [.poem]
 ....
@@ -368,7 +370,9 @@ audio::media/audio/agar_ghabool_darid_amal_konid_roye_khodetoon_kar_konid.mp3[co
 و همگان دست در ریسمان خدا زنید و پراکنده مشوید...
 ....
 
-== جف القلم / هرکس سرنوشت خودش رو در این لحظه خودش تعیین میکنه
+== هرکس سرنوشت خودش رو در این لحظه خودش تعیین میکنه
+
+audio::media/audio/har_kas_sarneveshte_khodesh_ro_dar_in_lahze_khodash_taeen_mikone.mp3[controls]
 
 .مولوی، مثنوی، دفتر پنجم، بیت ۳۱۸۲
 [.poem]
@@ -385,6 +389,8 @@ audio::media/audio/agar_ghabool_darid_amal_konid_roye_khodetoon_kar_konid.mp3[co
 ....
 
 == خدا به مرکز همانیده حمله میکنه
+
+audio::media/audio/khoda_be_markaze_hamanide_hamle_mikone.mp3[controls]
 
 .برنامه ۸۰۳، مولوی، مثنوی، دفتر دوم، بیت شماره ۱۳۰۰
 [.poem]
@@ -474,6 +480,8 @@ audio::media/audio/agar_ghabool_darid_amal_konid_roye_khodetoon_kar_konid.mp3[co
 
 == خدا توبه پذير و مهربان است
 
+audio::media/audio/khoda_tobe_pazir_va_mehraban_ast.mp3[controls]
+
 .برنامه ۱۰۰۰، قرآن کریم، سورهٔ حجرات (۴۹)، آیهٔ ۱۲
 [.poem]
 ....
@@ -493,6 +501,8 @@ audio::media/audio/agar_ghabool_darid_amal_konid_roye_khodetoon_kar_konid.mp3[co
 ....
 
 == خروب
+
+audio::media/audio/kharoob.mp3[controls]
 
 .برنامه ۹۹۷، مولوی، مثنوی، دفتر چهارم، بیت ۱۳۸۳
 [.poem]
@@ -545,6 +555,8 @@ audio::media/audio/agar_ghabool_darid_amal_konid_roye_khodetoon_kar_konid.mp3[co
 
 == در این لحظه چاره ای به جز تسلیم و رضا نداریم
 
+audio::media/audio/dar_in_lahze_chare_i_be_joz_taslim_va_reza_nadarim.mp3[controls]
+
 .برنامه ۱۰۰۰
 [.poem]
 ....
@@ -583,6 +595,8 @@ audio::media/audio/agar_ghabool_darid_amal_konid_roye_khodetoon_kar_konid.mp3[co
 ....
 
 == درد و چالش سبب فضاگشایی هستن
+
+audio::media/audio/dard_va_chalesh_sabab_fazagoshaei_hastan.mp3[controls]
 
 .برنامه ۱۰۰۰
 [.poem]
@@ -1018,3 +1032,7 @@ audio::media/audio/agar_ghabool_darid_amal_konid_roye_khodetoon_kar_konid.mp3[co
 شرع بهرِ دفعِ شَرّ رایی زند
 دیو را در شیشهٔ حجّت کند
 ....
+
+== جف القلم
+
+audio::media/audio/jaf_al_ghalam.mp3[controls]
