@@ -780,6 +780,8 @@ audio::media/audio/yanzoro_benoorollah.mp3[controls]
 
 == رحمت خدا فقط بستگی به فضاگشایی ما در این لحظه داره نه به گذشتمون
 
+audio::media/audio/rahmate_khoda_faghat_bastegi_be_fazagoshaei_ma_dar_in_lahze_dare_na_be_gozashtemoon.mp3[controls]
+
 .برنامه ۹۸۲، مولوی، مثنوی، دفتر دوم، بیت ۳۷۸۵
 [.poem]
 ....
@@ -836,6 +838,8 @@ audio::media/audio/yanzoro_benoorollah.mp3[controls]
 ....
 
 == رحمت ها به صورت بی مرادی میان
+
+audio::media/audio/rahmat_ha_be_soorate_bi_moradi_miyan.mp3[controls]
 
 .برنامه ۹۸۲، مولوی، مثنوی، دفتر پنجم، بیت ۳۶۴۴
 [.poem]
@@ -894,7 +898,9 @@ audio::media/audio/yanzoro_benoorollah.mp3[controls]
 بِساط: هر چیز گستردنی مانند فرش و سفره
 ....
 
-== شکر / شکر کافیه
+== شکر کافیه
+
+audio::media/audio/shokr_kafie.mp3[controls]
 
 .برنامه ۹۹۷، مولوی، دیوان شمس، غزل شمارهٔ ۲۵۷
 [.poem]
@@ -930,6 +936,8 @@ audio::media/audio/yanzoro_benoorollah.mp3[controls]
 ....
 
 == شکر برای طوفان
+
+audio::media/audio/shokr_baraye_toofan.mp3[controls]
 
 .برنامه ۸۰۳، مولوی، مثنوی، دفتر سوم، بیت شماره ۱۳۴۷
 [.poem]
@@ -1034,6 +1042,8 @@ audio::media/audio/yanzoro_benoorollah.mp3[controls]
 
 == شما مسئول مداومت تعهدتون هستید
 
+audio::media/audio/shoma_masoule_modavemate_taahodetoon_hastid.mp3[controls]
+
 .برنامه ۷۹۷، مولوی، مثنوی، دفتر پنجم، بیت ۱۲۱۱
 [.poem]
 ....
@@ -1041,6 +1051,14 @@ audio::media/audio/yanzoro_benoorollah.mp3[controls]
 دیو را در شیشهٔ حجّت کند
 ....
 
+== نعمت آرد غفلت و شکر انتباه
+
+audio::media/audio/nemat_arad_ghaflat_va_shokr_entebah.mp3[controls]
+
 == جف القلم
 
 audio::media/audio/jaf_al_ghalam.mp3[controls]
+
+== بهترین نیایش صبره
+
+audio::media/audio/behtarin_niyayesh_sabre.mp3[controls]
