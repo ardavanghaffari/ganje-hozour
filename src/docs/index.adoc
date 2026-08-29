@@ -3,7 +3,7 @@
 
 [.custom-toc]
 --
-* xref:audio_excerpts.html[گزیده برنامه‌ها]
+* xref:audio_excerpts.html[گزیده‌های شنیداری]
 * xref:book_excerpts.html[گزیده کتاب‌ها]
 * xref:poems.html[اشعار]
 --
