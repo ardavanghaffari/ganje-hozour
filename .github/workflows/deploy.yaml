@@ -1,4 +1,4 @@
-name: asciidoctor
+name: deploy
 
 on:
   push:
