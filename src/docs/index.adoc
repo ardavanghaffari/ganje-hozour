@@ -4,6 +4,7 @@
 [.custom-toc]
 --
 * xref:audio_excerpts.html[گزیده‌های شنیداری]
+* xref:written_excerpts.html[گزیده‌های نوشتاری]
 * xref:book_excerpts.html[گزیده کتاب‌ها]
-* xref:poems.html[اشعار]
+* xref:poems.html[گزیده اشعار]
 --
