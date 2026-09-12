@@ -163,7 +163,7 @@ audio::/media/audio/997/har_goone_gham_dar_jahan_bijast_va_tohame_zehne.mp3[cont
 
 == من چیز ذهنی رو نمیارم به مرکزم
 
-audio::/media/audio/997/har_goone_gham_dar_jahan_bijast_va_tohame_zehne.mp3[controls]
+audio::/media/audio/997/man_chize_zehni_ro_nemiaram_be_markazam.mp3[controls]
 
 .برنامه ۹۹۷، مولوی، مثنوی، دفتر سوم، بیت ۱۳۵۹
 [.poem]
