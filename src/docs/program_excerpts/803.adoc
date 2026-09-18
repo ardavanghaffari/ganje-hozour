@@ -7,7 +7,7 @@
 
 audio::/media/audio/803/khoda_be_markaze_hamanide_hamle_mikone.mp3[controls]
 
-.برنامه ۸۰۳، مولوی، مثنوی، دفتر دوم، بیت شماره ۱۳۰۰
+.مولوی، مثنوی، دفتر دوم، بیت شماره ۱۳۰۰
 [.poem]
 ....
 این جهان چون خَس به دستِ بادِ غیب
@@ -97,7 +97,7 @@ audio::/media/audio/803/khoda_be_markaze_hamanide_hamle_mikone.mp3[controls]
 
 audio::/media/audio/803/shokr_baraye_toofan.mp3[controls]
 
-.برنامه ۸۰۳، مولوی، مثنوی، دفتر سوم، بیت شماره ۱۳۴۷
+.مولوی، مثنوی، دفتر سوم، بیت شماره ۱۳۴۷
 [.poem]
 ....
 شُکر، طوفان را کنون بگماشتی
@@ -202,7 +202,7 @@ audio::/media/audio/803/shokr_baraye_toofan.mp3[controls]
 
 audio::/media/audio/803/atash_ab_toost.mp3[controls]
 
-.برنامه ۸۰۳، مولوی، مثنوی، دفتر پنجم، بیت شماره ۴۳۳
+.مولوی، مثنوی، دفتر پنجم، بیت شماره ۴۳۳
 [.poem]
 ....
 جَوْق‌ْجَوْق و صَفْ صَف از حرص و شِتاب
@@ -234,7 +234,7 @@ audio::/media/audio/803/atash_ab_toost.mp3[controls]
 
 audio::/media/audio/803/foroushavandegan_ra_doost_nadaram.mp3[controls]
 
-.برنامه ۸۰۳، مولوی، مثنوی، دفتر سوم، بیت شماره ۱۴۲۷
+.مولوی، مثنوی، دفتر سوم، بیت شماره ۱۴۲۷
 [.poem]
 ....
 عاشقِ حالی، نه عاشق بر مَنی
@@ -264,7 +264,7 @@ audio::/media/audio/803/foroushavandegan_ra_doost_nadaram.mp3[controls]
 
 audio::/media/audio/803/ma_be_asooni_be_rah_nemiaym.mp3[controls]
 
-.برنامه ۸۰۳، مولوی، دیوان شمس، غزل شمارهٔ ۱۰۲۷
+.مولوی، دیوان شمس، غزل شمارهٔ ۱۰۲۷
 [.poem]
 ....
 یغمابکِ تُرکستان بر زنگ بِزَد لشکر
@@ -305,7 +305,7 @@ audio::/media/audio/803/ma_be_asooni_be_rah_nemiaym.mp3[controls]
 
 audio::/media/audio/803/moaleje_az_markazemoon_shoroo_mishe.mp3[controls]
 
-.برنامه ۸۰۳، مولوی، دیوان شمس، غزل شمارهٔ ۱۰۲۷
+.مولوی، دیوان شمس، غزل شمارهٔ ۱۰۲۷
 [.poem]
 ....
 خورشید گَر از اوّل بیمارصفت باشد
@@ -337,7 +337,7 @@ audio::/media/audio/803/moaleje_az_markazemoon_shoroo_mishe.mp3[controls]
 
 audio::/media/audio/803/man_eshtebah_kardam.mp3[controls]
 
-.برنامه ۸۰۳، مولوی، دیوان شمس، غزل شمارهٔ ۱۰۲۷
+.مولوی، دیوان شمس، غزل شمارهٔ ۱۰۲۷
 [.poem]
 ....
 تا کی زِ شبِ زنگی بر عقل بُوَد تَنگی؟

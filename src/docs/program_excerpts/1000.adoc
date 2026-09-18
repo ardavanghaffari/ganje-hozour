@@ -7,7 +7,7 @@
 
 audio::/media/audio/1000/dar_khodetoon_va_digaran_zendegi_ro_bebinid.mp3[controls]
 
-.برنامه ۱۰۰۰، مولوی، دیوان شمس، غزل شمارهٔ ۵۱
+.مولوی، دیوان شمس، غزل شمارهٔ ۵۱
 [.poem]
 ....
 گر تو ملولی ای پدر، جانبِ یارِ من بیا
@@ -34,7 +34,7 @@ audio::/media/audio/1000/dar_khodetoon_va_digaran_zendegi_ro_bebinid.mp3[control
 
 audio::/media/audio/1000/yanzoro_benoorollah.mp3[controls]
 
-.برنامه ۱۰۰۰، مولوی، مثنوی، دفتر دوم، بیت ۱۵۶۷
+.مولوی، مثنوی، دفتر دوم، بیت ۱۵۶۷
 [.poem]
 ....
 شیخ کو یَنْظُر بِنورِالله شد
@@ -66,7 +66,7 @@ audio::/media/audio/1000/yanzoro_benoorollah.mp3[controls]
 
 audio::/media/audio/1000/agar_kasi_baraye_khoda_bashad_khoda_ham_baraye_oust.mp3[controls]
 
-.برنامه ۱۰۰۰، مولوی، مثنوی، دفتر اوّل، بیت ۱۹۳۷
+.مولوی، مثنوی، دفتر اوّل، بیت ۱۹۳۷
 [.poem]
 ....
 گفته او را من زبان و چشمِ تو
@@ -107,7 +107,7 @@ audio::/media/audio/1000/agar_kasi_baraye_khoda_bashad_khoda_ham_baraye_oust.mp3
 
 audio::/media/audio/1000/khoda_tobe_pazir_va_mehraban_ast.mp3[controls]
 
-.برنامه ۱۰۰۰، قرآن کریم، سورهٔ حجرات (۴۹)، آیهٔ ۱۲
+.قرآن کریم، سورهٔ حجرات (۴۹)، آیهٔ ۱۲
 [.poem]
 ....
 يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِنَ الظَّنِّ إِنَّ بَعْضَ الظَّنِّ إِثْمٌ ۖ وَلَا تَجَسَّسُوا وَلَا يَغْتَبْ
@@ -129,7 +129,7 @@ audio::/media/audio/1000/khoda_tobe_pazir_va_mehraban_ast.mp3[controls]
 
 audio::/media/audio/1000/dar_in_lahze_chare_i_be_joz_taslim_va_reza_nadarim.mp3[controls]
 
-.برنامه ۱۰۰۰، مولوی، مثنوی، دفتر ششم، بیت ۵۷۶
+.مولوی، مثنوی، دفتر ششم، بیت ۵۷۶
 [.poem]
 ....
 ای رفیقان، راهها را بست یار
@@ -170,7 +170,7 @@ audio::/media/audio/1000/dar_in_lahze_chare_i_be_joz_taslim_va_reza_nadarim.mp3[
 
 audio::/media/audio/1000/dard_va_chalesh_sabab_fazagoshaei_hastan.mp3[controls]
 
-.برنامه ۱۰۰۰، مولوی، مثنوی، دفتر ششم، بیت ۴۲۹۹
+.مولوی، مثنوی، دفتر ششم، بیت ۴۲۹۹
 [.poem]
 ....
 درد، دارویِ کهن را نَوْ کند
@@ -221,7 +221,7 @@ audio::/media/audio/1000/dard_va_chalesh_sabab_fazagoshaei_hastan.mp3[controls]
 
 audio::/media/audio/1000/moradatat_eshkaste_pa.mp3[controls]
 
-.برنامه ۱۰۰۰، مولوی، مثنوی، دفتر سوم، بیت ۴۴۶۶
+.مولوی، مثنوی، دفتر سوم، بیت ۴۴۶۶
 [.poem]
 ....
 عاشقان از بی‌مرادی‌هایِ خویش
@@ -277,7 +277,7 @@ audio::/media/audio/1000/moradatat_eshkaste_pa.mp3[controls]
 
 audio::/media/audio/1000/gorosnegi_manavi.mp3[controls]
 
-.برنامه ۱۰۰۰، مولوی، مثنوی، دفتر ششم، بیت ۴۲۹۱
+.مولوی، مثنوی، دفتر ششم، بیت ۴۲۹۱
 [.poem]
 ....
 با خلیل، آتش گُل و رَیحان و وَرْد
@@ -322,7 +322,7 @@ audio::/media/audio/1000/gorosnegi_manavi.mp3[controls]
 
 audio::/media/audio/1000/adaab_shenavandegan_va_moridan_angah_ke_sokhanan_hekmat_amiz_az_zaban_sheykh_jari_shavad.mp3[controls]
 
-.برنامه ۱۰۰۰، مولوی، مثنوی، دفتر سوم، بیت ۳۶۰۲
+.مولوی، مثنوی، دفتر سوم، بیت ۳۶۰۲
 [.poem]
 ....
 آدابُ الْمُسْتَمِعینَ َوالْمُریدینَ عِنْدَ فَیْضِ الْحِکْمَةِ مِنْ لِسانِ الشَّیخ

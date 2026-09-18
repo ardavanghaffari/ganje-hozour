@@ -1,0 +1,15 @@
+= گزیده برنامه‌های گنج حضور
+:nofooter:
+
+[.custom-toc]
+--
+* xref:program_excerpts/500.html[برنامه ۵۰۰]
+* xref:program_excerpts/720.html[برنامه ۷۲۰]
+* xref:program_excerpts/797.html[برنامه ۷۹۷]
+* xref:program_excerpts/803.html[برنامه ۸۰۳]
+* xref:program_excerpts/903.html[برنامه ۹۰۳]
+* xref:program_excerpts/982.html[برنامه ۹۸۲]
+* xref:program_excerpts/997.html[برنامه ۹۹۷]
+* xref:program_excerpts/1000.html[برنامه ۱۰۰۰]
+* xref:program_excerpts/misc.html[سایر برنامه‌ها]
+--

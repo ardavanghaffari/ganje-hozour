@@ -7,7 +7,7 @@
 
 audio::/media/audio/797/ayene_kolli.mp3[controls]
 
-.برنامه ۷۹۷، مولوی، دیوان شمس، غزل شمارهٔ ۱۷۴۵
+.مولوی، دیوان شمس، غزل شمارهٔ ۱۷۴۵
 [.poem]
 ....
 فضول گشته‌ام امروز، جنگ می جویم
@@ -78,7 +78,7 @@ audio::/media/audio/797/afsane_man_zehni.mp3[controls]
 می کوشند. من ذهنی برای بقا، از آنها به صورت قطب استفاده می کند و انرژی
 مخرب ایجاد میکند.
 
-.برنامه ۷۹۷، مولوی، دیوان شمس، غزل شماره ۱۳۴۴
+.مولوی، دیوان شمس، غزل شماره ۱۳۴۴
 [.poem]
 ....
 دمِ او جان دهدت رو ز نَفَخْتُ بپذیر
@@ -91,7 +91,7 @@ audio::/media/audio/797/afsane_man_zehni.mp3[controls]
 
 audio::/media/audio/797/yabi_andar_dide_oo_kolle_gharaz.mp3[controls]
 
-.برنامه ۷۹۷، مولوی، مثنوی، دفتر اول، بیت ۹۲۱
+.مولوی، مثنوی، دفتر اول، بیت ۹۲۱
 [.poem]
 ....
 دیده ما چون بسی علّت دروست
@@ -105,7 +105,7 @@ audio::/media/audio/797/yabi_andar_dide_oo_kolle_gharaz.mp3[controls]
 
 audio::/media/audio/797/shoma_masoule_modavemate_taahodetoon_hastid.mp3[controls]
 
-.برنامه ۷۹۷، مولوی، مثنوی، دفتر پنجم، بیت ۱۲۱۱
+.مولوی، مثنوی، دفتر پنجم، بیت ۱۲۱۱
 [.poem]
 ....
 شرع بهرِ دفعِ شَرّ رایی زند
@@ -116,7 +116,7 @@ audio::/media/audio/797/shoma_masoule_modavemate_taahodetoon_hastid.mp3[controls
 
 audio::/media/audio/797/az_mian_nardeban_nagrikhtam.mp3[controls]
 
-.برنامه ۷۹۷، مولوی، دیوان شمس، غزل شمارهٔ ۱۶۵۸
+.مولوی، دیوان شمس، غزل شمارهٔ ۱۶۵۸
 [.poem]
 ....
 عاشقم، از عاشقان نگریختم
@@ -157,7 +157,7 @@ audio::/media/audio/797/az_mian_nardeban_nagrikhtam.mp3[controls]
 
 audio::/media/audio/797/adami_ra_dar_ranj_o_mehnat_biafaride_im.mp3[controls]
 
-.برنامه ۷۹۷، قرآن کریم، سوره بلد(۹۰)، آیه ۱۲-۱
+.قرآن کریم، سوره بلد(۹۰)، آیه ۱۲-۱
 [.poem]
 ....
 لَا أُقْسِمُ بِهَٰذَا الْبَلَدِ

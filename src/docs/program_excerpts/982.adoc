@@ -7,7 +7,7 @@
 
 audio::/media/audio/982/estesna_konid.mp3[controls]
 
-.برنامه ۹۸۲، مولوی، مثنوی، دفتر سوم، بیت ۱۶۳۷
+.مولوی، مثنوی، دفتر سوم، بیت ۱۶۳۷
 [.poem]
 ....
 مدتی بر نذرِ خود بودش وفا
@@ -44,7 +44,7 @@ audio::/media/audio/982/estesna_konid.mp3[controls]
 
 audio::/media/audio/982/agar_ghabool_darid_amal_konid_roye_khodetoon_kar_konid.mp3[controls]
 
-.برنامه ۹۸۲، مولوی، مثنوی، دفتر پنجم، بیت ۱۳۶۵
+.مولوی، مثنوی، دفتر پنجم، بیت ۱۳۶۵
 [.poem]
 ....
 میلِ شهوت، کر کند دل را و کور
@@ -67,7 +67,7 @@ audio::/media/audio/982/agar_ghabool_darid_amal_konid_roye_khodetoon_kar_konid.m
 
 audio::/media/audio/982/rahmate_khoda_faghat_bastegi_be_fazagoshaei_ma_dar_in_lahze_dare_na_be_gozashtemoon.mp3[controls]
 
-.برنامه ۹۸۲، مولوی، مثنوی، دفتر دوم، بیت ۳۷۸۵
+.مولوی، مثنوی، دفتر دوم، بیت ۳۷۸۵
 [.poem]
 ....
 چشمِ او مانده‌ست در جُویِ روان
@@ -126,7 +126,7 @@ audio::/media/audio/982/rahmate_khoda_faghat_bastegi_be_fazagoshaei_ma_dar_in_la
 
 audio::/media/audio/982/rahmat_ha_be_soorate_bi_moradi_miyan.mp3[controls]
 
-.برنامه ۹۸۲، مولوی، مثنوی، دفتر پنجم، بیت ۳۶۴۴
+.مولوی، مثنوی، دفتر پنجم، بیت ۳۶۴۴
 [.poem]
 ....
 هست مهمان‌خانه این تَن ای جوان
@@ -187,7 +187,7 @@ audio::/media/audio/982/rahmat_ha_be_soorate_bi_moradi_miyan.mp3[controls]
 
 audio::/media/audio/982/ma_to_man_zehni_be_khodemoon_badanemoon_asib_mizanim.mp3[controls]
 
-.برنامه ۹۸۲، مولوی، مثنوی، دفتر پنجم، بیت ۳۵۷۳
+.مولوی، مثنوی، دفتر پنجم، بیت ۳۵۷۳
 [.poem]
 ....
 تو خوش و خوبی و، کانِ هر خوشی
