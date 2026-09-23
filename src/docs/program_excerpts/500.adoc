@@ -33,7 +33,7 @@ audio::/media/audio/500/har_che_shahvanist_bandad_cheshm_va_goosh.mp3[controls]
 پای کوبان جانب ناز آمدیم
 ....
 
-== گزیده اشعار
+== سایر اشعار برنامه
 
 .مولوی، دیوان شمس، غزل شماره ۱۴۷۳
 [.poem]
