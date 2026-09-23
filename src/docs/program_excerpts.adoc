@@ -8,6 +8,7 @@
 * xref:program_excerpts/720.html[برنامه ۷۲۰]
 * xref:program_excerpts/797.html[برنامه ۷۹۷]
 * xref:program_excerpts/803.html[برنامه ۸۰۳]
+* xref:program_excerpts/873.html[برنامه ۸۷۳]
 * xref:program_excerpts/903.html[برنامه ۹۰۳]
 * xref:program_excerpts/982.html[برنامه ۹۸۲]
 * xref:program_excerpts/997.html[برنامه ۹۹۷]

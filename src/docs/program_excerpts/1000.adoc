@@ -318,6 +318,25 @@ audio::/media/audio/1000/gorosnegi_manavi.mp3[controls]
 لَحْم: گوشت
 ....
 
+== همه قابل هستن
+
+audio::/media/audio/1000/hame_ghabel_hastan.mp3[controls]
+
+.مولوی، مثنوی، دفتر پنجم، بیت ١۵٣٧
+[.poem]
+....
+چارۀ آن دل عطای مُبدِلی است
+دادِ او را قابلیّت شرط نیست
+
+بلکه شرطِ قابلیّت دادِ اوست
+دادْ لُبّ و قابلیّت هست پوست
+
+مُبدِل: بَدَل‌کننده، تغییر‌دهنده
+داد: عطا، بخشش
+قابِلیَّت: سزاواری، شایستگی
+لُب: مغز، میوه
+....
+
 == آداب شنوندگان و مریدان، آنگاه که سخنان حکمت‌آمیز از زبان شیخ جاری شود
 
 audio::/media/audio/1000/adaab_shenavandegan_va_moridan_angah_ke_sokhanan_hekmat_amiz_az_zaban_sheykh_jari_shavad.mp3[controls]
