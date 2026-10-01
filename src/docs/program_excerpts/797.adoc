@@ -228,10 +228,179 @@ audio::/media/audio/797/adami_ra_dar_ranj_o_mehnat_biafaride_im.mp3[controls]
 و تو چه دانى كه گذرگاه سخت چيست؟
 ....
 
+== بر صدف آید ضرر نی بر گوهر
+
+audio::/media/audio/797/bar_sadaf_ayad_zarar_ney_bar_gohar.mp3[controls]
+
+.مولوی، مثنوی، دفتر اول، بیت ۳۴۹۶
+[.poem]
+....
+کس نیابد بر دلِ ایشان ظَفَر
+بر صدف آید ضرر، نَی بر گُهَر
+....
+
+== چون نباشد قوتی پرهیز به
+
+audio::/media/audio/797/chon_nabashad_ghovati_parhiz_beh.mp3[controls]
+
+.مولوی، مثنوی، دفتر ششم، بیت ۴۹۶
+[.poem]
+....
+چون نباشد قوّتی، پرهیز بِهْ
+در فرارِ لایُطاق آسان بِجِه
+....
+
+== تا نمیری نیست جان کندن تمام
+
+audio::/media/audio/797/ta_namiri_nist_jan_kandan_tamam.mp3[controls]
+
+.مولوی، مثنوی، دفتر ششم، بیت ۷۲۴
+[.poem]
+....
+تا نمیری، نیست جان کندن تمام
+بی‌کمالِ نردبان نآیی به بام
+....
+
 == نعمت آرد غفلت و شکر انتباه
 
 audio::/media/audio/797/nemat_arad_ghaflat_va_shokr_entebah.mp3[controls]
 
+.مولوی، مثنوی، دفتر سوم، بیت ۲۸۹۷
+[.poem]
+....
+نعمت آرد غفلت و، شُکر انتباه
+صیدِ نعمت کن به دامِ شُکرِ شاه
+....
+
+== مرغ غافل می خورد دانه ز دام
+
+audio::/media/audio/797/morghe_ghafel_mikhorad_dane_ze_daam.mp3[controls]
+
+.مولوی، مثنوی، دفتر پنجم، بیت ۱۴۱۲
+[.poem]
+....
+مرغِ غافل می‌خورد دانه ز دام
+همچو اندر دامِ دنیا، این عوام
+....
+
+== دانه کمتر خور مکن چندین رفو
+
+audio::/media/audio/797/dane_kamtar_khor_makon_chandin_rofoo.mp3[controls]
+
+.مولوی، مثنوی، دفتر پنجم، بیت ۱۴۰۷
+[.poem]
+....
+دانه کمتر خور، مکن چندین رفو
+چون کُلُوا خواندی، بخوان لٰاتُسْرِفُوا
+....
+
+== صبر و خاموشی جذوب رحمت است
+
+audio::/media/audio/797/sabr_va_khamooshi_jazoobe_rahmat_ast.mp3[controls]
+
+.مولوی، مثنوی، دفتر سوم، بیت ۲۷۲۵
+[.poem]
+....
+صبر و خاموشی جَذوبِ رحمت است
+وین نشان جُستن، نشانِ علّت است
+....
+
 == اگر تو عاشقی غم را رها کن
 
 audio::/media/audio/797/agar_to_asheghi_gham_ra_raha_kon.mp3[controls]
+
+.مولوی، دیوان شمس، غزل شماره ۱۹۰۵
+[.poem]
+....
+اگر تو عاشقی غم را رها کن
+عروسی بین و ماتم را رها کن
+....
+
+== هست با هر خوب یک لالای زشت
+
+audio::/media/audio/797/hast_ba_har_khoob_yek_lalaye_zesht.mp3[controls]
+
+.مولوی، مثنوی، دفتر دوم، بیت ۳۱۴۷
+[.poem]
+....
+صبر چون پولِ صِراط آن سو، بهشت
+هست با هر خوب، یک لالایِ زشت
+....
+
+== ره آسمان درون است پر عشق را بجنان
+
+audio::/media/audio/797/rahe_aseman_daroon_ast_pare_eshgh_ra_bejonban.mp3[controls]
+
+.مولوی، دیوان شمس، غزل شماره ۷۷۱
+[.poem]
+....
+ره آسمان درونست پر عشق را بجنبان
+پر عشق چون قوی شد غم نردبان نماند
+....
+
+== هیچ طبیبی ندهد بی مرضی حب و دوا
+
+audio::/media/audio/797/hich_tabibi_nadahad_bi_marazi_hobb_va_dava.mp3[controls]
+
+.مولوی، دیوان شمس، غزل شماره ۱۴۰۰
+[.poem]
+....
+هیچ طبیبی ندهد بی مرضی حب و دوا
+من همگی درد شوم تا که به درمان برسم
+....
+
+== مباش در قفسی و کناره بامی
+
+audio::/media/audio/797/mabash_dar_ghafasi_va_kenare_bami.mp3[controls]
+
+.مولوی، دیوان شمس، غزل شماره ۳۰۵۸
+[.poem]
+....
+به باغ بلبلِ مستم، صَفیرِ من بشنو
+مباش در قفسی و کناره بامی
+....
+
+== احتما کن احتما ز اندیشه ها
+
+audio::/media/audio/797/ehtema_kon_ehtema_ze_andishe_ha.mp3[controls]
+
+.مولوی، مثنوی، دفتر اول، بیت ۲۹۰۹
+[.poem]
+....
+اِحْتِما کن، اِحْتِما ز اندیشه‌ها
+فکر، شیر و گور و، دلها بیشه‌ها
+....
+
+== هر چیز که در جستن آنی، آنی
+
+audio::/media/audio/797/har_chiz_ke_dar_jostane_ani_ani.mp3[controls]
+
+.مولوی، دیوان شمس، رباعی شمارهٔ ۱۸۱۵
+[.poem]
+....
+این نکتهٔ رمز اگر بدانی دانی
+هر چیز که در جستن آنی آنی
+....
+
+== کار مرا چو او کند کار دگر چرا کنم؟
+
+audio::/media/audio/797/kare_mara_cho_oo_konad_kare_degar_chera_konam.mp3[controls]
+
+.مولوی، دیوان شمس، غزل شماره ۱۴۰۴
+[.poem]
+....
+کار مرا چو او کند کار دگر چرا کنم
+چونک چشیدم از لبش یاد شکر چرا کنم
+....
+
+== کار او کن فیکون است نه موقوف علل
+
+audio::/media/audio/797/kare_oo_kon_fa_yakoon_ast_na_moghoofe_elal.mp3[controls]
+
+.مولوی، دیوان شمس، غزل شماره ۱۳۴۴
+[.poem]
+....
+دمِ او جان دهدت رو ز نَفَخْتُ بپذیر
+کارِ او کُنْ فَیَکُون ست، نه موقوفِ علل
+....
+​
