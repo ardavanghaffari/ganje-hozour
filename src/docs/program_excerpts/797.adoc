@@ -403,4 +403,58 @@ audio::/media/audio/797/kare_oo_kon_fa_yakoon_ast_na_moghoofe_elal.mp3[controls]
 دمِ او جان دهدت رو ز نَفَخْتُ بپذیر
 کارِ او کُنْ فَیَکُون ست، نه موقوفِ علل
 ....
-​
+
+== جمله خشم از کبر خیزد واز تکبر پاک شو
+
+audio::/media/audio/797/jomle_khashm_az_kebr_khizad_va_az_takabbor_pak_sho.mp3[controls]
+
+.مولوی، دیوان شمس، غزل شماره ۲۱۹۸
+[.poem]
+....
+جمله خشم از کبر خیزد از تکبر پاک شو
+گر نخواهی کبر را رو بی تکبر خاک شو
+....
+
+== هر چند مفلسم نپذیرم عقیق خرد
+
+audio::/media/audio/797/har_chand_moflesam_napaziram_aghighe_khord.mp3[controls]
+
+.مولوی، دیوان شمس، غزل شماره ۴۴۱
+[.poem]
+....
+هر چند مُفلِسم، نپذیرم عَقیقِ خُرد
+کانِ عَقیقِ نادرِ ارزانم آرزوست
+....
+
+== باغ که بی تو سبز شد دی بدهد سزای او
+
+audio::/media/audio/797/bagh_ke_bi_to_sabz_shod_dey_bedahad_sezaye_oo.mp3[controls]
+
+.مولوی، دیوان شمس، غزل شماره ۱۸۳۳
+[.poem]
+....
+باغ که بی تو سبز شد دی بدهد سزای او
+جان که جز از تو زنده شد نیست وی از شمار جان
+....
+
+== رحمت حق آب بود، جز که به پستی نرود
+
+audio::/media/audio/797/rahmate_hagh_ab_bood_joz_ke_be_pasti_naravad.mp3[controls]
+
+.مولوی، دیوان شمس، غزل شماره ۱۴۰۰
+[.poem]
+....
+رحمت حق آب بود جز که به پستی نرود
+خاکی و مرحوم شوم تا بر رحمان برسم
+....
+
+== این جهان دامست و دانه‌ ش آرزو
+
+audio::/media/audio/797/in_jahan_daam_ast_va_dane_ash_arezoo.mp3[controls]
+
+.مولوی، مثنوی، دفتر ششم، بیت ۳۷۸
+[.poem]
+....
+این جهان دامست و دانه‌ش آرزو
+در گریز از دام‌ها، روی آر، زُو
+....
