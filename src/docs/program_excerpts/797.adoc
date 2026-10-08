@@ -448,7 +448,7 @@ audio::/media/audio/797/rahmate_hagh_ab_bood_joz_ke_be_pasti_naravad.mp3[control
 خاکی و مرحوم شوم تا بر رحمان برسم
 ....
 
-== این جهان دامست و دانه‌ ش آرزو
+== این جهان دامست و دانه‌‌ش آرزو
 
 audio::/media/audio/797/in_jahan_daam_ast_va_dane_ash_arezoo.mp3[controls]
 
