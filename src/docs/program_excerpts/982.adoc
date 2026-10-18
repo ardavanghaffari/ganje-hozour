@@ -182,6 +182,24 @@ audio::/media/audio/982/rahmat_ha_be_soorate_bi_moradi_miyan.mp3[controls]
 بِساط: هر چیز گستردنی مانند فرش و سفره
 ....
 
+== پایان نگری
+
+audio::/media/audio/982/payan_negari.mp3[controls]
+
+.مولوی، مثنوی، دفتر ششم، بیت ۱۳۶۰
+[.poem]
+....
+گر همی‌ خواهی سلامت از ضرر
+چشم زَاوّل بند و پایان را نگر
+....
+
+.مولوی، مثنوی، دفتر چهارم، بیت ۳۵۰۱
+[.poem]
+....
+اوّل و آخِر تو‌یی ما در میان
+هیچ هیچی که نیاید در بیان
+....
+
 == ما تو من ذهنی به خودمون، بدنمون آسیب میزنیم
 
 audio::/media/audio/982/ma_to_man_zehni_be_khodemoon_badanemoon_asib_mizanim.mp3[controls]

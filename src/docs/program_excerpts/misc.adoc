@@ -3,55 +3,13 @@
 :toc-title!:
 :nofooter:
 
-== هرکس سرنوشت خودش رو در این لحظه خودش تعیین میکنه
-
-audio::/media/audio/misc/har_kas_sarneveshte_khodesh_ro_dar_in_lahze_khodash_taeen_mikone.mp3[controls]
-
-.مولوی، مثنوی، دفتر پنجم، بیت ۳۱۸۲
-[.poem]
-....
-فعلِ توست این غُصّه‌هایِ دَم‌به‌دَم
-این بُوَد معنیِّ قَدْ جَفَّ الْقَلَم
-
-حدیث
-جَفَّ الْقَلَمُ بِما أنْتَ لاقٍ
-خشك شد قلم به آنچه سزاوار بودی
-
-جَفَّ الْقَلَمُ بِما هُوَ کائنٌ
-خشک شد قلم به آنچه بودنی است
-....
-
-== جف القلم
-
-audio::/media/audio/misc/jaf_al_ghalam.mp3[controls]
-
-== بهترین نیایش صبره
-
-audio::/media/audio/misc/behtarin_niyayesh_sabre.mp3[controls]
-
-== چون که غم بینی تو استغفار کن
-
-audio::/media/audio/misc/chon_ke_gham_bini_to_esteghfar_kon.mp3[controls]
-
 == اصل ما بی کرانیه
 
 audio::/media/audio/misc/asle_ma_bi_karaniye.mp3[controls]
 
-== انصتوا را رعایت کنید و پیشی نگیرید بر خداوند
-
-audio::/media/audio/misc/ansetoo_ra_reayat_konid_va_pishi_nagirid_bar_khodavand.mp3[controls]
-
 == با کنترل، ترس و خواستن نمیشه رابطه برقرار کرد
 
 audio::/media/audio/misc/ba_kontrol_tars_va_khastan_nemishe_rabeteh_bargharar_kard.mp3[controls]
-
-== بهار جان ها تازه کند دل تو را
-
-audio::/media/audio/misc/bahare_jan_ha_taze_konad_dele_to_ra.mp3[controls]
-
-== پایان نگری
-
-audio::/media/audio/misc/payan_negari.mp3[controls]
 
 == توقع قدردانی
 
