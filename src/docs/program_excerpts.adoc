@@ -5,7 +5,12 @@
 --
 * xref:program_excerpts/96.html[برنامه ۹۶]
 * xref:program_excerpts/184.html[برنامه ۱۸۴]
+* xref:program_excerpts/433.html[برنامه ۴۳۳]
 * xref:program_excerpts/500.html[برنامه ۵۰۰]
+* xref:program_excerpts/510.html[برنامه ۵۱۰]
+* xref:program_excerpts/537.html[برنامه ۵۳۷]
+* xref:program_excerpts/589.html[برنامه ۵۸۹]
+* xref:program_excerpts/626.html[برنامه ۶۲۶]
 * xref:program_excerpts/720.html[برنامه ۷۲۰]
 * xref:program_excerpts/797.html[برنامه ۷۹۷]
 * xref:program_excerpts/803.html[برنامه ۸۰۳]
